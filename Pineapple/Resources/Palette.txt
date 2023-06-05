@@ -1,0 +1,9 @@
+RGB Color Codes:
+
+Name                 R    G    B
+
+Light Blue         (160, 210, 235)
+White              (229, 234, 245)
+Lavender           (221, 189, 244)
+Deep Lavender      (132, 91,  179)
+Charcoal           (73,  77,  95 )
